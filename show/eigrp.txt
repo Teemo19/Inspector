@@ -1,0 +1,10 @@
+
+
+
+ena
+show ip eigrp
+show ip eigrp neighbors
+show ip eigrp interfaces
+show ip eigrp topology all-links
+show ip eigrp traffic
+show ip route eigrp

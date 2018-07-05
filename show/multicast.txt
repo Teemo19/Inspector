@@ -1,0 +1,8 @@
+
+
+
+ena
+show ip pim neighbor
+show ip pim route
+show ip mroute
+show ip igmp group

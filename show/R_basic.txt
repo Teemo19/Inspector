@@ -1,0 +1,22 @@
+
+
+
+ena
+Show version
+show inventory
+show env all
+Show running-config
+show flash:
+show vtp status
+show vtp password
+show cdp neighbors
+show cdp neighbors detail
+show interface trunk
+show interface status
+show interface description
+show ip interface brief
+show ip protocols
+show ip route
+
+
+

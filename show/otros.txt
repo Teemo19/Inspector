@@ -1,0 +1,12 @@
+
+
+
+ena
+show mpls ldp nei
+show mpls ldp disco
+show mpls int
+show mpls ip bind
+show mpls ldp bin vrf
+show ip vrf
+show mpls forwar vrf
+show tech

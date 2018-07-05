@@ -1,0 +1,35 @@
+
+
+
+ena
+show clock
+show version
+show inv
+show module
+show redundancy
+show flash:
+dir all-filesystems
+show running-config
+show vlan
+show vlan brief
+show vtp status
+show vtp password
+show cdp neighbors
+show cdp neighbors detail
+show int trunk
+show int status
+show int status err-disabled
+show ip interface brief
+show spanning-tree
+show spanning-tree root
+show spanning-tree detail
+show spanning-tree detail | inc occur|exec|from
+show etherchannel summary
+show mac address-table
+show ip arp
+show log
+show env all
+show power inline
+show process cpu history
+show process cpu | exc 0.0
+show port-security

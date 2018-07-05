@@ -1,0 +1,6 @@
+
+
+
+show ip bgp
+show ip bgp neighbors
+show ip bgp summary

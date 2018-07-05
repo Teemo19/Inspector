@@ -1,0 +1,13 @@
+
+
+
+ena
+show module switch <1,2>
+show run switch <1,2>
+Show switch virtual 
+Show switch virtual role
+Show switch virtual link 
+Show switch virtual link port-channel
+show switch virtual dual-active fast-hello
+show switch virtual redundancy
+show power switch <1,2>

@@ -1,0 +1,11 @@
+
+
+
+ena
+show ip ospf
+show ip ospf neighbors
+show ip ospf interfaces
+show ip ospf database
+show ip ospf border-routers
+show ip ospf
+show ip route ospf

@@ -1,0 +1,23 @@
+
+
+
+ena
+show hardware rate-limit
+show license usage
+show feature
+show feature-set
+show vpc
+show vpc brief
+show vpc peer-keep
+show vpc role
+show vpc consistency-parameters global
+show vpc consistency parameters vpc <x>
+show vpc consistency parameters interface <X>
+show run vpc
+show cfs status
+show fex
+show fex 100
+show fex 101
+show inventory fex 100
+show inventory fex 101
+show run fex
